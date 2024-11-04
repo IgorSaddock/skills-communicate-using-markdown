@@ -12,3 +12,6 @@ Teste de headers
 print('hello world')
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce Myself to the world
